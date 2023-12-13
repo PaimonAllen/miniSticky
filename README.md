@@ -1,0 +1,2 @@
+# miniSticky
+A web sticky
